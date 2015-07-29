@@ -1,0 +1,2532 @@
+[
+  {
+    "Open": "2.47",
+    "Symbol": "CRUS",
+    "Volume": "447600",
+    "Date": "2008-12-31",
+    "Low": "2.47",
+    "Adj_Close": "2.68",
+    "Close": "2.68",
+    "High": "2.69"
+  },
+  {
+    "Open": "2.45",
+    "Symbol": "CRUS",
+    "Volume": "366300",
+    "Date": "2008-12-30",
+    "Low": "2.39",
+    "Adj_Close": "2.49",
+    "Close": "2.49",
+    "High": "2.51"
+  },
+  {
+    "Open": "2.46",
+    "Symbol": "CRUS",
+    "Volume": "371900",
+    "Date": "2008-12-29",
+    "Low": "2.36",
+    "Adj_Close": "2.38",
+    "Close": "2.38",
+    "High": "2.50"
+  },
+  {
+    "Open": "2.35",
+    "Symbol": "CRUS",
+    "Volume": "342200",
+    "Date": "2008-12-26",
+    "Low": "2.35",
+    "Adj_Close": "2.45",
+    "Close": "2.45",
+    "High": "2.49"
+  },
+  {
+    "Open": "2.40",
+    "Symbol": "CRUS",
+    "Volume": "502200",
+    "Date": "2008-12-24",
+    "Low": "2.34",
+    "Adj_Close": "2.35",
+    "Close": "2.35",
+    "High": "2.54"
+  },
+  {
+    "Open": "2.72",
+    "Symbol": "CRUS",
+    "Volume": "246700",
+    "Date": "2008-12-23",
+    "Low": "2.45",
+    "Adj_Close": "2.47",
+    "Close": "2.47",
+    "High": "2.74"
+  },
+  {
+    "Open": "2.69",
+    "Symbol": "CRUS",
+    "Volume": "417000",
+    "Date": "2008-12-22",
+    "Low": "2.59",
+    "Adj_Close": "2.71",
+    "Close": "2.71",
+    "High": "2.75"
+  },
+  {
+    "Open": "2.75",
+    "Symbol": "CRUS",
+    "Volume": "1027200",
+    "Date": "2008-12-19",
+    "Low": "2.57",
+    "Adj_Close": "2.67",
+    "Close": "2.67",
+    "High": "2.88"
+  },
+  {
+    "Open": "2.68",
+    "Symbol": "CRUS",
+    "Volume": "745100",
+    "Date": "2008-12-18",
+    "Low": "2.54",
+    "Adj_Close": "2.66",
+    "Close": "2.66",
+    "High": "2.69"
+  },
+  {
+    "Open": "2.70",
+    "Symbol": "CRUS",
+    "Volume": "482600",
+    "Date": "2008-12-17",
+    "Low": "2.59",
+    "Adj_Close": "2.67",
+    "Close": "2.67",
+    "High": "2.73"
+  },
+  {
+    "Open": "2.46",
+    "Symbol": "CRUS",
+    "Volume": "1308100",
+    "Date": "2008-12-16",
+    "Low": "2.39",
+    "Adj_Close": "2.71",
+    "Close": "2.71",
+    "High": "2.73"
+  },
+  {
+    "Open": "2.41",
+    "Symbol": "CRUS",
+    "Volume": "1201700",
+    "Date": "2008-12-15",
+    "Low": "2.30",
+    "Adj_Close": "2.35",
+    "Close": "2.35",
+    "High": "2.45"
+  },
+  {
+    "Open": "2.32",
+    "Symbol": "CRUS",
+    "Volume": "1062700",
+    "Date": "2008-12-12",
+    "Low": "2.28",
+    "Adj_Close": "2.39",
+    "Close": "2.39",
+    "High": "2.56"
+  },
+  {
+    "Open": "2.87",
+    "Symbol": "CRUS",
+    "Volume": "1342100",
+    "Date": "2008-12-11",
+    "Low": "2.34",
+    "Adj_Close": "2.35",
+    "Close": "2.35",
+    "High": "2.88"
+  },
+  {
+    "Open": "2.97",
+    "Symbol": "CRUS",
+    "Volume": "659200",
+    "Date": "2008-12-10",
+    "Low": "2.88",
+    "Adj_Close": "2.90",
+    "Close": "2.90",
+    "High": "3.04"
+  },
+  {
+    "Open": "2.86",
+    "Symbol": "CRUS",
+    "Volume": "669400",
+    "Date": "2008-12-09",
+    "Low": "2.85",
+    "Adj_Close": "2.94",
+    "Close": "2.94",
+    "High": "3.03"
+  },
+  {
+    "Open": "2.96",
+    "Symbol": "CRUS",
+    "Volume": "826100",
+    "Date": "2008-12-08",
+    "Low": "2.78",
+    "Adj_Close": "2.90",
+    "Close": "2.90",
+    "High": "2.99"
+  },
+  {
+    "Open": "2.92",
+    "Symbol": "CRUS",
+    "Volume": "1181500",
+    "Date": "2008-12-05",
+    "Low": "2.83",
+    "Adj_Close": "2.90",
+    "Close": "2.90",
+    "High": "2.97"
+  },
+  {
+    "Open": "3.75",
+    "Symbol": "CRUS",
+    "Volume": "2287600",
+    "Date": "2008-12-04",
+    "Low": "2.88",
+    "Adj_Close": "2.90",
+    "Close": "2.90",
+    "High": "3.80"
+  },
+  {
+    "Open": "4.18",
+    "Symbol": "CRUS",
+    "Volume": "937300",
+    "Date": "2008-12-03",
+    "Low": "4.03",
+    "Adj_Close": "4.23",
+    "Close": "4.23",
+    "High": "4.35"
+  },
+  {
+    "Open": "3.97",
+    "Symbol": "CRUS",
+    "Volume": "847100",
+    "Date": "2008-12-02",
+    "Low": "3.86",
+    "Adj_Close": "4.28",
+    "Close": "4.28",
+    "High": "4.28"
+  },
+  {
+    "Open": "4.14",
+    "Symbol": "CRUS",
+    "Volume": "691500",
+    "Date": "2008-12-01",
+    "Low": "3.89",
+    "Adj_Close": "3.90",
+    "Close": "3.90",
+    "High": "4.23"
+  },
+  {
+    "Open": "4.16",
+    "Symbol": "CRUS",
+    "Volume": "141700",
+    "Date": "2008-11-28",
+    "Low": "4.11",
+    "Adj_Close": "4.22",
+    "Close": "4.22",
+    "High": "4.24"
+  },
+  {
+    "Open": "3.78",
+    "Symbol": "CRUS",
+    "Volume": "514400",
+    "Date": "2008-11-26",
+    "Low": "3.69",
+    "Adj_Close": "4.21",
+    "Close": "4.21",
+    "High": "4.23"
+  },
+  {
+    "Open": "3.85",
+    "Symbol": "CRUS",
+    "Volume": "584700",
+    "Date": "2008-11-25",
+    "Low": "3.61",
+    "Adj_Close": "3.78",
+    "Close": "3.78",
+    "High": "3.86"
+  },
+  {
+    "Open": "3.59",
+    "Symbol": "CRUS",
+    "Volume": "736800",
+    "Date": "2008-11-24",
+    "Low": "3.51",
+    "Adj_Close": "3.83",
+    "Close": "3.83",
+    "High": "3.85"
+  },
+  {
+    "Open": "3.77",
+    "Symbol": "CRUS",
+    "Volume": "776600",
+    "Date": "2008-11-21",
+    "Low": "3.35",
+    "Adj_Close": "3.59",
+    "Close": "3.59",
+    "High": "3.81"
+  },
+  {
+    "Open": "3.75",
+    "Symbol": "CRUS",
+    "Volume": "891100",
+    "Date": "2008-11-20",
+    "Low": "3.62",
+    "Adj_Close": "3.69",
+    "Close": "3.69",
+    "High": "4.18"
+  },
+  {
+    "Open": "4.00",
+    "Symbol": "CRUS",
+    "Volume": "665700",
+    "Date": "2008-11-19",
+    "Low": "3.73",
+    "Adj_Close": "3.74",
+    "Close": "3.74",
+    "High": "4.06"
+  },
+  {
+    "Open": "4.18",
+    "Symbol": "CRUS",
+    "Volume": "638300",
+    "Date": "2008-11-18",
+    "Low": "3.81",
+    "Adj_Close": "3.99",
+    "Close": "3.99",
+    "High": "4.24"
+  },
+  {
+    "Open": "4.13",
+    "Symbol": "CRUS",
+    "Volume": "536000",
+    "Date": "2008-11-17",
+    "Low": "4.12",
+    "Adj_Close": "4.13",
+    "Close": "4.13",
+    "High": "4.33"
+  },
+  {
+    "Open": "4.68",
+    "Symbol": "CRUS",
+    "Volume": "790100",
+    "Date": "2008-11-14",
+    "Low": "4.08",
+    "Adj_Close": "4.08",
+    "Close": "4.08",
+    "High": "4.77"
+  },
+  {
+    "Open": "4.60",
+    "Symbol": "CRUS",
+    "Volume": "934700",
+    "Date": "2008-11-13",
+    "Low": "4.24",
+    "Adj_Close": "4.77",
+    "Close": "4.77",
+    "High": "4.78"
+  },
+  {
+    "Open": "5.03",
+    "Symbol": "CRUS",
+    "Volume": "815500",
+    "Date": "2008-11-12",
+    "Low": "4.61",
+    "Adj_Close": "4.61",
+    "Close": "4.61",
+    "High": "5.03"
+  },
+  {
+    "Open": "5.25",
+    "Symbol": "CRUS",
+    "Volume": "513200",
+    "Date": "2008-11-11",
+    "Low": "5.08",
+    "Adj_Close": "5.08",
+    "Close": "5.08",
+    "High": "5.31"
+  },
+  {
+    "Open": "5.49",
+    "Symbol": "CRUS",
+    "Volume": "609600",
+    "Date": "2008-11-10",
+    "Low": "5.15",
+    "Adj_Close": "5.31",
+    "Close": "5.31",
+    "High": "5.50"
+  },
+  {
+    "Open": "5.32",
+    "Symbol": "CRUS",
+    "Volume": "547700",
+    "Date": "2008-11-07",
+    "Low": "5.21",
+    "Adj_Close": "5.36",
+    "Close": "5.36",
+    "High": "5.49"
+  },
+  {
+    "Open": "5.64",
+    "Symbol": "CRUS",
+    "Volume": "1061700",
+    "Date": "2008-11-06",
+    "Low": "5.19",
+    "Adj_Close": "5.25",
+    "Close": "5.25",
+    "High": "5.84"
+  },
+  {
+    "Open": "5.81",
+    "Symbol": "CRUS",
+    "Volume": "1336800",
+    "Date": "2008-11-05",
+    "Low": "5.63",
+    "Adj_Close": "5.66",
+    "Close": "5.66",
+    "High": "5.94"
+  },
+  {
+    "Open": "5.77",
+    "Symbol": "CRUS",
+    "Volume": "564300",
+    "Date": "2008-11-04",
+    "Low": "5.69",
+    "Adj_Close": "5.85",
+    "Close": "5.85",
+    "High": "5.95"
+  },
+  {
+    "Open": "5.64",
+    "Symbol": "CRUS",
+    "Volume": "916700",
+    "Date": "2008-11-03",
+    "Low": "5.62",
+    "Adj_Close": "5.73",
+    "Close": "5.73",
+    "High": "5.92"
+  },
+  {
+    "Open": "5.41",
+    "Symbol": "CRUS",
+    "Volume": "1722200",
+    "Date": "2008-10-31",
+    "Low": "5.33",
+    "Adj_Close": "5.74",
+    "Close": "5.74",
+    "High": "5.83"
+  },
+  {
+    "Open": "5.32",
+    "Symbol": "CRUS",
+    "Volume": "843800",
+    "Date": "2008-10-30",
+    "Low": "5.24",
+    "Adj_Close": "5.43",
+    "Close": "5.43",
+    "High": "5.45"
+  },
+  {
+    "Open": "5.06",
+    "Symbol": "CRUS",
+    "Volume": "498100",
+    "Date": "2008-10-29",
+    "Low": "5.02",
+    "Adj_Close": "5.22",
+    "Close": "5.22",
+    "High": "5.39"
+  },
+  {
+    "Open": "4.81",
+    "Symbol": "CRUS",
+    "Volume": "806400",
+    "Date": "2008-10-28",
+    "Low": "4.63",
+    "Adj_Close": "5.20",
+    "Close": "5.20",
+    "High": "5.23"
+  },
+  {
+    "Open": "4.96",
+    "Symbol": "CRUS",
+    "Volume": "590700",
+    "Date": "2008-10-27",
+    "Low": "4.63",
+    "Adj_Close": "4.65",
+    "Close": "4.65",
+    "High": "5.00"
+  },
+  {
+    "Open": "4.71",
+    "Symbol": "CRUS",
+    "Volume": "904800",
+    "Date": "2008-10-24",
+    "Low": "4.69",
+    "Adj_Close": "4.94",
+    "Close": "4.94",
+    "High": "5.13"
+  },
+  {
+    "Open": "4.68",
+    "Symbol": "CRUS",
+    "Volume": "1019300",
+    "Date": "2008-10-23",
+    "Low": "4.67",
+    "Adj_Close": "4.95",
+    "Close": "4.95",
+    "High": "5.00"
+  },
+  {
+    "Open": "4.54",
+    "Symbol": "CRUS",
+    "Volume": "644200",
+    "Date": "2008-10-22",
+    "Low": "4.51",
+    "Adj_Close": "4.59",
+    "Close": "4.59",
+    "High": "4.79"
+  },
+  {
+    "Open": "4.94",
+    "Symbol": "CRUS",
+    "Volume": "567900",
+    "Date": "2008-10-21",
+    "Low": "4.58",
+    "Adj_Close": "4.58",
+    "Close": "4.58",
+    "High": "5.00"
+  },
+  {
+    "Open": "4.86",
+    "Symbol": "CRUS",
+    "Volume": "471300",
+    "Date": "2008-10-20",
+    "Low": "4.71",
+    "Adj_Close": "5.03",
+    "Close": "5.03",
+    "High": "5.04"
+  },
+  {
+    "Open": "4.85",
+    "Symbol": "CRUS",
+    "Volume": "542500",
+    "Date": "2008-10-17",
+    "Low": "3.60",
+    "Adj_Close": "4.80",
+    "Close": "4.80",
+    "High": "5.04"
+  },
+  {
+    "Open": "4.36",
+    "Symbol": "CRUS",
+    "Volume": "828200",
+    "Date": "2008-10-16",
+    "Low": "4.31",
+    "Adj_Close": "4.95",
+    "Close": "4.95",
+    "High": "5.01"
+  },
+  {
+    "Open": "4.66",
+    "Symbol": "CRUS",
+    "Volume": "453000",
+    "Date": "2008-10-15",
+    "Low": "4.23",
+    "Adj_Close": "4.25",
+    "Close": "4.25",
+    "High": "4.72"
+  },
+  {
+    "Open": "4.73",
+    "Symbol": "CRUS",
+    "Volume": "625300",
+    "Date": "2008-10-14",
+    "Low": "4.25",
+    "Adj_Close": "4.71",
+    "Close": "4.71",
+    "High": "4.83"
+  },
+  {
+    "Open": "4.52",
+    "Symbol": "CRUS",
+    "Volume": "694200",
+    "Date": "2008-10-13",
+    "Low": "4.35",
+    "Adj_Close": "4.62",
+    "Close": "4.62",
+    "High": "4.67"
+  },
+  {
+    "Open": "3.96",
+    "Symbol": "CRUS",
+    "Volume": "1599700",
+    "Date": "2008-10-10",
+    "Low": "3.42",
+    "Adj_Close": "4.37",
+    "Close": "4.37",
+    "High": "4.38"
+  },
+  {
+    "Open": "4.56",
+    "Symbol": "CRUS",
+    "Volume": "1020300",
+    "Date": "2008-10-09",
+    "Low": "3.58",
+    "Adj_Close": "4.19",
+    "Close": "4.19",
+    "High": "4.64"
+  },
+  {
+    "Open": "4.51",
+    "Symbol": "CRUS",
+    "Volume": "1681000",
+    "Date": "2008-10-08",
+    "Low": "4.38",
+    "Adj_Close": "4.53",
+    "Close": "4.53",
+    "High": "4.81"
+  },
+  {
+    "Open": "4.94",
+    "Symbol": "CRUS",
+    "Volume": "467200",
+    "Date": "2008-10-07",
+    "Low": "4.51",
+    "Adj_Close": "4.51",
+    "Close": "4.51",
+    "High": "4.99"
+  },
+  {
+    "Open": "5.00",
+    "Symbol": "CRUS",
+    "Volume": "844400",
+    "Date": "2008-10-06",
+    "Low": "4.71",
+    "Adj_Close": "4.94",
+    "Close": "4.94",
+    "High": "5.00"
+  },
+  {
+    "Open": "5.24",
+    "Symbol": "CRUS",
+    "Volume": "656500",
+    "Date": "2008-10-03",
+    "Low": "5.08",
+    "Adj_Close": "5.08",
+    "Close": "5.08",
+    "High": "5.39"
+  },
+  {
+    "Open": "5.18",
+    "Symbol": "CRUS",
+    "Volume": "517100",
+    "Date": "2008-10-02",
+    "Low": "5.09",
+    "Adj_Close": "5.13",
+    "Close": "5.13",
+    "High": "5.30"
+  },
+  {
+    "Open": "5.41",
+    "Symbol": "CRUS",
+    "Volume": "384000",
+    "Date": "2008-10-01",
+    "Low": "5.21",
+    "Adj_Close": "5.25",
+    "Close": "5.25",
+    "High": "5.46"
+  },
+  {
+    "Open": "5.24",
+    "Symbol": "CRUS",
+    "Volume": "652500",
+    "Date": "2008-09-30",
+    "Low": "5.10",
+    "Adj_Close": "5.45",
+    "Close": "5.45",
+    "High": "5.50"
+  },
+  {
+    "Open": "5.35",
+    "Symbol": "CRUS",
+    "Volume": "691400",
+    "Date": "2008-09-29",
+    "Low": "5.07",
+    "Adj_Close": "5.15",
+    "Close": "5.15",
+    "High": "5.36"
+  },
+  {
+    "Open": "5.49",
+    "Symbol": "CRUS",
+    "Volume": "637700",
+    "Date": "2008-09-26",
+    "Low": "5.38",
+    "Adj_Close": "5.45",
+    "Close": "5.45",
+    "High": "5.59"
+  },
+  {
+    "Open": "5.59",
+    "Symbol": "CRUS",
+    "Volume": "675600",
+    "Date": "2008-09-25",
+    "Low": "5.55",
+    "Adj_Close": "5.64",
+    "Close": "5.64",
+    "High": "5.78"
+  },
+  {
+    "Open": "5.72",
+    "Symbol": "CRUS",
+    "Volume": "507900",
+    "Date": "2008-09-24",
+    "Low": "5.53",
+    "Adj_Close": "5.55",
+    "Close": "5.55",
+    "High": "5.87"
+  },
+  {
+    "Open": "5.91",
+    "Symbol": "CRUS",
+    "Volume": "515900",
+    "Date": "2008-09-23",
+    "Low": "5.64",
+    "Adj_Close": "5.72",
+    "Close": "5.72",
+    "High": "5.94"
+  },
+  {
+    "Open": "5.95",
+    "Symbol": "CRUS",
+    "Volume": "1065900",
+    "Date": "2008-09-22",
+    "Low": "5.88",
+    "Adj_Close": "5.91",
+    "Close": "5.91",
+    "High": "6.10"
+  },
+  {
+    "Open": "5.78",
+    "Symbol": "CRUS",
+    "Volume": "1799500",
+    "Date": "2008-09-19",
+    "Low": "5.68",
+    "Adj_Close": "6.00",
+    "Close": "6.00",
+    "High": "6.09"
+  },
+  {
+    "Open": "5.34",
+    "Symbol": "CRUS",
+    "Volume": "1265700",
+    "Date": "2008-09-18",
+    "Low": "5.18",
+    "Adj_Close": "5.54",
+    "Close": "5.54",
+    "High": "5.60"
+  },
+  {
+    "Open": "5.25",
+    "Symbol": "CRUS",
+    "Volume": "1059100",
+    "Date": "2008-09-17",
+    "Low": "5.17",
+    "Adj_Close": "5.24",
+    "Close": "5.24",
+    "High": "5.39"
+  },
+  {
+    "Open": "5.09",
+    "Symbol": "CRUS",
+    "Volume": "1082400",
+    "Date": "2008-09-16",
+    "Low": "5.00",
+    "Adj_Close": "5.26",
+    "Close": "5.26",
+    "High": "5.28"
+  },
+  {
+    "Open": "5.45",
+    "Symbol": "CRUS",
+    "Volume": "1160000",
+    "Date": "2008-09-15",
+    "Low": "5.12",
+    "Adj_Close": "5.18",
+    "Close": "5.18",
+    "High": "5.52"
+  },
+  {
+    "Open": "5.50",
+    "Symbol": "CRUS",
+    "Volume": "943200",
+    "Date": "2008-09-12",
+    "Low": "5.40",
+    "Adj_Close": "5.46",
+    "Close": "5.46",
+    "High": "5.57"
+  },
+  {
+    "Open": "5.51",
+    "Symbol": "CRUS",
+    "Volume": "1167700",
+    "Date": "2008-09-11",
+    "Low": "5.43",
+    "Adj_Close": "5.54",
+    "Close": "5.54",
+    "High": "5.55"
+  },
+  {
+    "Open": "5.52",
+    "Symbol": "CRUS",
+    "Volume": "1311900",
+    "Date": "2008-09-10",
+    "Low": "5.45",
+    "Adj_Close": "5.58",
+    "Close": "5.58",
+    "High": "5.64"
+  },
+  {
+    "Open": "5.68",
+    "Symbol": "CRUS",
+    "Volume": "984500",
+    "Date": "2008-09-09",
+    "Low": "5.41",
+    "Adj_Close": "5.44",
+    "Close": "5.44",
+    "High": "5.78"
+  },
+  {
+    "Open": "5.76",
+    "Symbol": "CRUS",
+    "Volume": "1134300",
+    "Date": "2008-09-08",
+    "Low": "5.62",
+    "Adj_Close": "5.67",
+    "Close": "5.67",
+    "High": "5.97"
+  },
+  {
+    "Open": "5.71",
+    "Symbol": "CRUS",
+    "Volume": "1238000",
+    "Date": "2008-09-05",
+    "Low": "5.60",
+    "Adj_Close": "5.66",
+    "Close": "5.66",
+    "High": "5.77"
+  },
+  {
+    "Open": "6.14",
+    "Symbol": "CRUS",
+    "Volume": "1091900",
+    "Date": "2008-09-04",
+    "Low": "5.72",
+    "Adj_Close": "5.73",
+    "Close": "5.73",
+    "High": "6.16"
+  },
+  {
+    "Open": "6.46",
+    "Symbol": "CRUS",
+    "Volume": "1094600",
+    "Date": "2008-09-03",
+    "Low": "6.14",
+    "Adj_Close": "6.17",
+    "Close": "6.17",
+    "High": "6.46"
+  },
+  {
+    "Open": "6.24",
+    "Symbol": "CRUS",
+    "Volume": "1439300",
+    "Date": "2008-09-02",
+    "Low": "6.23",
+    "Adj_Close": "6.39",
+    "Close": "6.39",
+    "High": "6.46"
+  },
+  {
+    "Open": "6.27",
+    "Symbol": "CRUS",
+    "Volume": "959600",
+    "Date": "2008-08-29",
+    "Low": "6.14",
+    "Adj_Close": "6.21",
+    "Close": "6.21",
+    "High": "6.27"
+  },
+  {
+    "Open": "6.22",
+    "Symbol": "CRUS",
+    "Volume": "689400",
+    "Date": "2008-08-28",
+    "Low": "6.18",
+    "Adj_Close": "6.32",
+    "Close": "6.32",
+    "High": "6.32"
+  },
+  {
+    "Open": "5.92",
+    "Symbol": "CRUS",
+    "Volume": "1137900",
+    "Date": "2008-08-27",
+    "Low": "5.90",
+    "Adj_Close": "6.21",
+    "Close": "6.21",
+    "High": "6.24"
+  },
+  {
+    "Open": "5.95",
+    "Symbol": "CRUS",
+    "Volume": "691300",
+    "Date": "2008-08-26",
+    "Low": "5.90",
+    "Adj_Close": "5.91",
+    "Close": "5.91",
+    "High": "5.97"
+  },
+  {
+    "Open": "6.00",
+    "Symbol": "CRUS",
+    "Volume": "442100",
+    "Date": "2008-08-25",
+    "Low": "5.92",
+    "Adj_Close": "5.95",
+    "Close": "5.95",
+    "High": "6.00"
+  },
+  {
+    "Open": "5.95",
+    "Symbol": "CRUS",
+    "Volume": "463700",
+    "Date": "2008-08-22",
+    "Low": "5.89",
+    "Adj_Close": "5.97",
+    "Close": "5.97",
+    "High": "5.98"
+  },
+  {
+    "Open": "5.78",
+    "Symbol": "CRUS",
+    "Volume": "659800",
+    "Date": "2008-08-21",
+    "Low": "5.76",
+    "Adj_Close": "5.89",
+    "Close": "5.89",
+    "High": "5.91"
+  },
+  {
+    "Open": "5.81",
+    "Symbol": "CRUS",
+    "Volume": "480300",
+    "Date": "2008-08-20",
+    "Low": "5.72",
+    "Adj_Close": "5.83",
+    "Close": "5.83",
+    "High": "5.93"
+  },
+  {
+    "Open": "5.75",
+    "Symbol": "CRUS",
+    "Volume": "1066200",
+    "Date": "2008-08-19",
+    "Low": "5.69",
+    "Adj_Close": "5.80",
+    "Close": "5.80",
+    "High": "6.01"
+  },
+  {
+    "Open": "5.56",
+    "Symbol": "CRUS",
+    "Volume": "1429200",
+    "Date": "2008-08-18",
+    "Low": "5.50",
+    "Adj_Close": "5.75",
+    "Close": "5.75",
+    "High": "5.77"
+  },
+  {
+    "Open": "5.47",
+    "Symbol": "CRUS",
+    "Volume": "785600",
+    "Date": "2008-08-15",
+    "Low": "5.38",
+    "Adj_Close": "5.57",
+    "Close": "5.57",
+    "High": "5.61"
+  },
+  {
+    "Open": "5.53",
+    "Symbol": "CRUS",
+    "Volume": "733600",
+    "Date": "2008-08-14",
+    "Low": "5.38",
+    "Adj_Close": "5.40",
+    "Close": "5.40",
+    "High": "5.59"
+  },
+  {
+    "Open": "5.82",
+    "Symbol": "CRUS",
+    "Volume": "1104200",
+    "Date": "2008-08-13",
+    "Low": "5.48",
+    "Adj_Close": "5.53",
+    "Close": "5.53",
+    "High": "5.82"
+  },
+  {
+    "Open": "5.97",
+    "Symbol": "CRUS",
+    "Volume": "1184100",
+    "Date": "2008-08-12",
+    "Low": "5.75",
+    "Adj_Close": "5.83",
+    "Close": "5.83",
+    "High": "6.02"
+  },
+  {
+    "Open": "5.91",
+    "Symbol": "CRUS",
+    "Volume": "877300",
+    "Date": "2008-08-11",
+    "Low": "5.86",
+    "Adj_Close": "5.98",
+    "Close": "5.98",
+    "High": "6.02"
+  },
+  {
+    "Open": "5.82",
+    "Symbol": "CRUS",
+    "Volume": "1100000",
+    "Date": "2008-08-08",
+    "Low": "5.80",
+    "Adj_Close": "5.90",
+    "Close": "5.90",
+    "High": "6.02"
+  },
+  {
+    "Open": "5.58",
+    "Symbol": "CRUS",
+    "Volume": "959500",
+    "Date": "2008-08-07",
+    "Low": "5.57",
+    "Adj_Close": "5.93",
+    "Close": "5.93",
+    "High": "6.01"
+  },
+  {
+    "Open": "5.70",
+    "Symbol": "CRUS",
+    "Volume": "1429200",
+    "Date": "2008-08-06",
+    "Low": "5.57",
+    "Adj_Close": "5.66",
+    "Close": "5.66",
+    "High": "5.83"
+  },
+  {
+    "Open": "5.75",
+    "Symbol": "CRUS",
+    "Volume": "1202200",
+    "Date": "2008-08-05",
+    "Low": "5.62",
+    "Adj_Close": "5.73",
+    "Close": "5.73",
+    "High": "5.79"
+  },
+  {
+    "Open": "5.54",
+    "Symbol": "CRUS",
+    "Volume": "1260300",
+    "Date": "2008-08-04",
+    "Low": "5.49",
+    "Adj_Close": "5.74",
+    "Close": "5.74",
+    "High": "5.78"
+  },
+  {
+    "Open": "5.69",
+    "Symbol": "CRUS",
+    "Volume": "919300",
+    "Date": "2008-08-01",
+    "Low": "5.51",
+    "Adj_Close": "5.56",
+    "Close": "5.56",
+    "High": "5.75"
+  },
+  {
+    "Open": "5.92",
+    "Symbol": "CRUS",
+    "Volume": "967400",
+    "Date": "2008-07-31",
+    "Low": "5.68",
+    "Adj_Close": "5.68",
+    "Close": "5.68",
+    "High": "6.01"
+  },
+  {
+    "Open": "5.78",
+    "Symbol": "CRUS",
+    "Volume": "1532900",
+    "Date": "2008-07-30",
+    "Low": "5.77",
+    "Adj_Close": "6.00",
+    "Close": "6.00",
+    "High": "6.01"
+  },
+  {
+    "Open": "5.67",
+    "Symbol": "CRUS",
+    "Volume": "1464700",
+    "Date": "2008-07-29",
+    "Low": "5.67",
+    "Adj_Close": "5.73",
+    "Close": "5.73",
+    "High": "5.91"
+  },
+  {
+    "Open": "5.78",
+    "Symbol": "CRUS",
+    "Volume": "923200",
+    "Date": "2008-07-28",
+    "Low": "5.56",
+    "Adj_Close": "5.59",
+    "Close": "5.59",
+    "High": "5.86"
+  },
+  {
+    "Open": "5.95",
+    "Symbol": "CRUS",
+    "Volume": "1677000",
+    "Date": "2008-07-25",
+    "Low": "5.78",
+    "Adj_Close": "5.85",
+    "Close": "5.85",
+    "High": "6.07"
+  },
+  {
+    "Open": "5.49",
+    "Symbol": "CRUS",
+    "Volume": "4857900",
+    "Date": "2008-07-24",
+    "Low": "5.49",
+    "Adj_Close": "6.06",
+    "Close": "6.06",
+    "High": "6.55"
+  },
+  {
+    "Open": "4.58",
+    "Symbol": "CRUS",
+    "Volume": "1234100",
+    "Date": "2008-07-23",
+    "Low": "4.58",
+    "Adj_Close": "4.83",
+    "Close": "4.83",
+    "High": "4.87"
+  },
+  {
+    "Open": "4.64",
+    "Symbol": "CRUS",
+    "Volume": "1490400",
+    "Date": "2008-07-22",
+    "Low": "4.46",
+    "Adj_Close": "4.52",
+    "Close": "4.52",
+    "High": "4.66"
+  },
+  {
+    "Open": "4.76",
+    "Symbol": "CRUS",
+    "Volume": "1019800",
+    "Date": "2008-07-21",
+    "Low": "4.63",
+    "Adj_Close": "4.65",
+    "Close": "4.65",
+    "High": "4.83"
+  },
+  {
+    "Open": "4.77",
+    "Symbol": "CRUS",
+    "Volume": "1818700",
+    "Date": "2008-07-18",
+    "Low": "4.67",
+    "Adj_Close": "4.75",
+    "Close": "4.75",
+    "High": "4.80"
+  },
+  {
+    "Open": "5.01",
+    "Symbol": "CRUS",
+    "Volume": "1480400",
+    "Date": "2008-07-17",
+    "Low": "4.73",
+    "Adj_Close": "4.74",
+    "Close": "4.74",
+    "High": "5.05"
+  },
+  {
+    "Open": "4.87",
+    "Symbol": "CRUS",
+    "Volume": "1138400",
+    "Date": "2008-07-16",
+    "Low": "4.79",
+    "Adj_Close": "5.00",
+    "Close": "5.00",
+    "High": "5.03"
+  },
+  {
+    "Open": "4.56",
+    "Symbol": "CRUS",
+    "Volume": "1691800",
+    "Date": "2008-07-15",
+    "Low": "4.46",
+    "Adj_Close": "4.89",
+    "Close": "4.89",
+    "High": "5.05"
+  },
+  {
+    "Open": "4.85",
+    "Symbol": "CRUS",
+    "Volume": "982600",
+    "Date": "2008-07-14",
+    "Low": "4.47",
+    "Adj_Close": "4.62",
+    "Close": "4.62",
+    "High": "4.89"
+  },
+  {
+    "Open": "4.86",
+    "Symbol": "CRUS",
+    "Volume": "1572000",
+    "Date": "2008-07-11",
+    "Low": "4.61",
+    "Adj_Close": "4.80",
+    "Close": "4.80",
+    "High": "4.86"
+  },
+  {
+    "Open": "4.81",
+    "Symbol": "CRUS",
+    "Volume": "1377100",
+    "Date": "2008-07-10",
+    "Low": "4.76",
+    "Adj_Close": "4.91",
+    "Close": "4.91",
+    "High": "4.97"
+  },
+  {
+    "Open": "5.14",
+    "Symbol": "CRUS",
+    "Volume": "1111400",
+    "Date": "2008-07-09",
+    "Low": "4.79",
+    "Adj_Close": "4.80",
+    "Close": "4.80",
+    "High": "5.21"
+  },
+  {
+    "Open": "5.20",
+    "Symbol": "CRUS",
+    "Volume": "979000",
+    "Date": "2008-07-08",
+    "Low": "5.09",
+    "Adj_Close": "5.15",
+    "Close": "5.15",
+    "High": "5.26"
+  },
+  {
+    "Open": "5.08",
+    "Symbol": "CRUS",
+    "Volume": "953200",
+    "Date": "2008-07-07",
+    "Low": "5.01",
+    "Adj_Close": "5.20",
+    "Close": "5.20",
+    "High": "5.24"
+  },
+  {
+    "Open": "5.27",
+    "Symbol": "CRUS",
+    "Volume": "894900",
+    "Date": "2008-07-03",
+    "Low": "4.91",
+    "Adj_Close": "5.04",
+    "Close": "5.04",
+    "High": "5.29"
+  },
+  {
+    "Open": "5.45",
+    "Symbol": "CRUS",
+    "Volume": "718900",
+    "Date": "2008-07-02",
+    "Low": "5.19",
+    "Adj_Close": "5.20",
+    "Close": "5.20",
+    "High": "5.53"
+  },
+  {
+    "Open": "5.56",
+    "Symbol": "CRUS",
+    "Volume": "800000",
+    "Date": "2008-07-01",
+    "Low": "5.30",
+    "Adj_Close": "5.46",
+    "Close": "5.46",
+    "High": "5.56"
+  },
+  {
+    "Open": "5.96",
+    "Symbol": "CRUS",
+    "Volume": "1170900",
+    "Date": "2008-06-30",
+    "Low": "5.55",
+    "Adj_Close": "5.56",
+    "Close": "5.56",
+    "High": "5.99"
+  },
+  {
+    "Open": "5.95",
+    "Symbol": "CRUS",
+    "Volume": "2411100",
+    "Date": "2008-06-27",
+    "Low": "5.82",
+    "Adj_Close": "5.93",
+    "Close": "5.93",
+    "High": "6.09"
+  },
+  {
+    "Open": "6.12",
+    "Symbol": "CRUS",
+    "Volume": "495800",
+    "Date": "2008-06-26",
+    "Low": "5.90",
+    "Adj_Close": "5.96",
+    "Close": "5.96",
+    "High": "6.12"
+  },
+  {
+    "Open": "5.98",
+    "Symbol": "CRUS",
+    "Volume": "537500",
+    "Date": "2008-06-25",
+    "Low": "5.96",
+    "Adj_Close": "6.18",
+    "Close": "6.18",
+    "High": "6.22"
+  },
+  {
+    "Open": "5.92",
+    "Symbol": "CRUS",
+    "Volume": "416200",
+    "Date": "2008-06-24",
+    "Low": "5.83",
+    "Adj_Close": "5.95",
+    "Close": "5.95",
+    "High": "6.08"
+  },
+  {
+    "Open": "6.11",
+    "Symbol": "CRUS",
+    "Volume": "324400",
+    "Date": "2008-06-23",
+    "Low": "5.95",
+    "Adj_Close": "5.98",
+    "Close": "5.98",
+    "High": "6.19"
+  },
+  {
+    "Open": "6.20",
+    "Symbol": "CRUS",
+    "Volume": "765000",
+    "Date": "2008-06-20",
+    "Low": "6.00",
+    "Adj_Close": "6.06",
+    "Close": "6.06",
+    "High": "6.20"
+  },
+  {
+    "Open": "6.09",
+    "Symbol": "CRUS",
+    "Volume": "593500",
+    "Date": "2008-06-19",
+    "Low": "6.01",
+    "Adj_Close": "6.22",
+    "Close": "6.22",
+    "High": "6.23"
+  },
+  {
+    "Open": "6.26",
+    "Symbol": "CRUS",
+    "Volume": "401200",
+    "Date": "2008-06-18",
+    "Low": "6.00",
+    "Adj_Close": "6.09",
+    "Close": "6.09",
+    "High": "6.26"
+  },
+  {
+    "Open": "6.44",
+    "Symbol": "CRUS",
+    "Volume": "375100",
+    "Date": "2008-06-17",
+    "Low": "6.24",
+    "Adj_Close": "6.28",
+    "Close": "6.28",
+    "High": "6.50"
+  },
+  {
+    "Open": "6.32",
+    "Symbol": "CRUS",
+    "Volume": "252600",
+    "Date": "2008-06-16",
+    "Low": "6.25",
+    "Adj_Close": "6.48",
+    "Close": "6.48",
+    "High": "6.48"
+  },
+  {
+    "Open": "6.24",
+    "Symbol": "CRUS",
+    "Volume": "363500",
+    "Date": "2008-06-13",
+    "Low": "6.19",
+    "Adj_Close": "6.33",
+    "Close": "6.33",
+    "High": "6.35"
+  },
+  {
+    "Open": "6.15",
+    "Symbol": "CRUS",
+    "Volume": "568100",
+    "Date": "2008-06-12",
+    "Low": "6.02",
+    "Adj_Close": "6.17",
+    "Close": "6.17",
+    "High": "6.22"
+  },
+  {
+    "Open": "6.33",
+    "Symbol": "CRUS",
+    "Volume": "536000",
+    "Date": "2008-06-11",
+    "Low": "6.08",
+    "Adj_Close": "6.08",
+    "Close": "6.08",
+    "High": "6.39"
+  },
+  {
+    "Open": "6.39",
+    "Symbol": "CRUS",
+    "Volume": "474400",
+    "Date": "2008-06-10",
+    "Low": "6.30",
+    "Adj_Close": "6.37",
+    "Close": "6.37",
+    "High": "6.42"
+  },
+  {
+    "Open": "6.64",
+    "Symbol": "CRUS",
+    "Volume": "801300",
+    "Date": "2008-06-09",
+    "Low": "6.34",
+    "Adj_Close": "6.42",
+    "Close": "6.42",
+    "High": "6.74"
+  },
+  {
+    "Open": "7.00",
+    "Symbol": "CRUS",
+    "Volume": "1371300",
+    "Date": "2008-06-06",
+    "Low": "6.56",
+    "Adj_Close": "6.59",
+    "Close": "6.59",
+    "High": "7.03"
+  },
+  {
+    "Open": "6.80",
+    "Symbol": "CRUS",
+    "Volume": "1500100",
+    "Date": "2008-06-05",
+    "Low": "6.79",
+    "Adj_Close": "7.00",
+    "Close": "7.00",
+    "High": "7.01"
+  },
+  {
+    "Open": "6.38",
+    "Symbol": "CRUS",
+    "Volume": "598600",
+    "Date": "2008-06-04",
+    "Low": "6.36",
+    "Adj_Close": "6.63",
+    "Close": "6.63",
+    "High": "6.65"
+  },
+  {
+    "Open": "6.46",
+    "Symbol": "CRUS",
+    "Volume": "556500",
+    "Date": "2008-06-03",
+    "Low": "6.30",
+    "Adj_Close": "6.42",
+    "Close": "6.42",
+    "High": "6.60"
+  },
+  {
+    "Open": "6.53",
+    "Symbol": "CRUS",
+    "Volume": "477400",
+    "Date": "2008-06-02",
+    "Low": "6.36",
+    "Adj_Close": "6.45",
+    "Close": "6.45",
+    "High": "6.68"
+  },
+  {
+    "Open": "6.31",
+    "Symbol": "CRUS",
+    "Volume": "688200",
+    "Date": "2008-05-30",
+    "Low": "6.29",
+    "Adj_Close": "6.56",
+    "Close": "6.56",
+    "High": "6.58"
+  },
+  {
+    "Open": "6.26",
+    "Symbol": "CRUS",
+    "Volume": "407900",
+    "Date": "2008-05-29",
+    "Low": "6.26",
+    "Adj_Close": "6.31",
+    "Close": "6.31",
+    "High": "6.42"
+  },
+  {
+    "Open": "6.44",
+    "Symbol": "CRUS",
+    "Volume": "314700",
+    "Date": "2008-05-28",
+    "Low": "6.23",
+    "Adj_Close": "6.29",
+    "Close": "6.29",
+    "High": "6.47"
+  },
+  {
+    "Open": "6.25",
+    "Symbol": "CRUS",
+    "Volume": "1039200",
+    "Date": "2008-05-27",
+    "Low": "6.22",
+    "Adj_Close": "6.40",
+    "Close": "6.40",
+    "High": "6.41"
+  },
+  {
+    "Open": "6.18",
+    "Symbol": "CRUS",
+    "Volume": "587300",
+    "Date": "2008-05-23",
+    "Low": "6.13",
+    "Adj_Close": "6.22",
+    "Close": "6.22",
+    "High": "6.27"
+  },
+  {
+    "Open": "6.14",
+    "Symbol": "CRUS",
+    "Volume": "718400",
+    "Date": "2008-05-22",
+    "Low": "6.08",
+    "Adj_Close": "6.22",
+    "Close": "6.22",
+    "High": "6.26"
+  },
+  {
+    "Open": "6.10",
+    "Symbol": "CRUS",
+    "Volume": "892600",
+    "Date": "2008-05-21",
+    "Low": "6.00",
+    "Adj_Close": "6.10",
+    "Close": "6.10",
+    "High": "6.28"
+  },
+  {
+    "Open": "6.29",
+    "Symbol": "CRUS",
+    "Volume": "942800",
+    "Date": "2008-05-20",
+    "Low": "6.02",
+    "Adj_Close": "6.07",
+    "Close": "6.07",
+    "High": "6.34"
+  },
+  {
+    "Open": "6.25",
+    "Symbol": "CRUS",
+    "Volume": "1158700",
+    "Date": "2008-05-19",
+    "Low": "6.20",
+    "Adj_Close": "6.33",
+    "Close": "6.33",
+    "High": "6.40"
+  },
+  {
+    "Open": "6.33",
+    "Symbol": "CRUS",
+    "Volume": "1062700",
+    "Date": "2008-05-16",
+    "Low": "6.05",
+    "Adj_Close": "6.18",
+    "Close": "6.18",
+    "High": "6.37"
+  },
+  {
+    "Open": "6.21",
+    "Symbol": "CRUS",
+    "Volume": "652400",
+    "Date": "2008-05-15",
+    "Low": "6.17",
+    "Adj_Close": "6.28",
+    "Close": "6.28",
+    "High": "6.35"
+  },
+  {
+    "Open": "6.13",
+    "Symbol": "CRUS",
+    "Volume": "852600",
+    "Date": "2008-05-14",
+    "Low": "6.05",
+    "Adj_Close": "6.22",
+    "Close": "6.22",
+    "High": "6.32"
+  },
+  {
+    "Open": "6.15",
+    "Symbol": "CRUS",
+    "Volume": "534800",
+    "Date": "2008-05-13",
+    "Low": "6.02",
+    "Adj_Close": "6.13",
+    "Close": "6.13",
+    "High": "6.17"
+  },
+  {
+    "Open": "5.93",
+    "Symbol": "CRUS",
+    "Volume": "608600",
+    "Date": "2008-05-12",
+    "Low": "5.85",
+    "Adj_Close": "6.07",
+    "Close": "6.07",
+    "High": "6.09"
+  },
+  {
+    "Open": "5.89",
+    "Symbol": "CRUS",
+    "Volume": "1015800",
+    "Date": "2008-05-09",
+    "Low": "5.85",
+    "Adj_Close": "5.90",
+    "Close": "5.90",
+    "High": "6.00"
+  },
+  {
+    "Open": "5.84",
+    "Symbol": "CRUS",
+    "Volume": "1665400",
+    "Date": "2008-05-08",
+    "Low": "5.81",
+    "Adj_Close": "5.97",
+    "Close": "5.97",
+    "High": "6.02"
+  },
+  {
+    "Open": "5.70",
+    "Symbol": "CRUS",
+    "Volume": "1180000",
+    "Date": "2008-05-07",
+    "Low": "5.68",
+    "Adj_Close": "5.75",
+    "Close": "5.75",
+    "High": "5.84"
+  },
+  {
+    "Open": "5.60",
+    "Symbol": "CRUS",
+    "Volume": "940600",
+    "Date": "2008-05-06",
+    "Low": "5.56",
+    "Adj_Close": "5.67",
+    "Close": "5.67",
+    "High": "5.76"
+  },
+  {
+    "Open": "5.80",
+    "Symbol": "CRUS",
+    "Volume": "3259800",
+    "Date": "2008-05-05",
+    "Low": "5.50",
+    "Adj_Close": "5.66",
+    "Close": "5.66",
+    "High": "5.92"
+  },
+  {
+    "Open": "6.72",
+    "Symbol": "CRUS",
+    "Volume": "5472500",
+    "Date": "2008-05-02",
+    "Low": "5.65",
+    "Adj_Close": "5.85",
+    "Close": "5.85",
+    "High": "6.83"
+  },
+  {
+    "Open": "7.22",
+    "Symbol": "CRUS",
+    "Volume": "1417600",
+    "Date": "2008-05-01",
+    "Low": "7.19",
+    "Adj_Close": "7.43",
+    "Close": "7.43",
+    "High": "7.63"
+  },
+  {
+    "Open": "7.15",
+    "Symbol": "CRUS",
+    "Volume": "618600",
+    "Date": "2008-04-30",
+    "Low": "7.12",
+    "Adj_Close": "7.15",
+    "Close": "7.15",
+    "High": "7.29"
+  },
+  {
+    "Open": "7.15",
+    "Symbol": "CRUS",
+    "Volume": "866500",
+    "Date": "2008-04-29",
+    "Low": "7.04",
+    "Adj_Close": "7.11",
+    "Close": "7.11",
+    "High": "7.27"
+  },
+  {
+    "Open": "7.40",
+    "Symbol": "CRUS",
+    "Volume": "1458500",
+    "Date": "2008-04-28",
+    "Low": "7.11",
+    "Adj_Close": "7.13",
+    "Close": "7.13",
+    "High": "7.50"
+  },
+  {
+    "Open": "7.57",
+    "Symbol": "CRUS",
+    "Volume": "1263700",
+    "Date": "2008-04-25",
+    "Low": "7.20",
+    "Adj_Close": "7.40",
+    "Close": "7.40",
+    "High": "7.57"
+  },
+  {
+    "Open": "7.27",
+    "Symbol": "CRUS",
+    "Volume": "1470100",
+    "Date": "2008-04-24",
+    "Low": "7.24",
+    "Adj_Close": "7.53",
+    "Close": "7.53",
+    "High": "7.59"
+  },
+  {
+    "Open": "7.02",
+    "Symbol": "CRUS",
+    "Volume": "1634000",
+    "Date": "2008-04-23",
+    "Low": "6.95",
+    "Adj_Close": "7.28",
+    "Close": "7.28",
+    "High": "7.33"
+  },
+  {
+    "Open": "7.10",
+    "Symbol": "CRUS",
+    "Volume": "2545600",
+    "Date": "2008-04-22",
+    "Low": "6.95",
+    "Adj_Close": "7.01",
+    "Close": "7.01",
+    "High": "7.22"
+  },
+  {
+    "Open": "6.96",
+    "Symbol": "CRUS",
+    "Volume": "2816600",
+    "Date": "2008-04-21",
+    "Low": "6.90",
+    "Adj_Close": "7.16",
+    "Close": "7.16",
+    "High": "7.19"
+  },
+  {
+    "Open": "7.27",
+    "Symbol": "CRUS",
+    "Volume": "1484600",
+    "Date": "2008-04-18",
+    "Low": "7.11",
+    "Adj_Close": "7.40",
+    "Close": "7.40",
+    "High": "7.53"
+  },
+  {
+    "Open": "7.12",
+    "Symbol": "CRUS",
+    "Volume": "1071600",
+    "Date": "2008-04-17",
+    "Low": "7.00",
+    "Adj_Close": "7.13",
+    "Close": "7.13",
+    "High": "7.25"
+  },
+  {
+    "Open": "7.18",
+    "Symbol": "CRUS",
+    "Volume": "1886500",
+    "Date": "2008-04-16",
+    "Low": "7.02",
+    "Adj_Close": "7.14",
+    "Close": "7.14",
+    "High": "7.25"
+  },
+  {
+    "Open": "6.75",
+    "Symbol": "CRUS",
+    "Volume": "3668400",
+    "Date": "2008-04-15",
+    "Low": "6.63",
+    "Adj_Close": "7.16",
+    "Close": "7.16",
+    "High": "7.28"
+  },
+  {
+    "Open": "6.46",
+    "Symbol": "CRUS",
+    "Volume": "1248000",
+    "Date": "2008-04-14",
+    "Low": "6.36",
+    "Adj_Close": "6.66",
+    "Close": "6.66",
+    "High": "6.78"
+  },
+  {
+    "Open": "6.57",
+    "Symbol": "CRUS",
+    "Volume": "1754600",
+    "Date": "2008-04-11",
+    "Low": "6.38",
+    "Adj_Close": "6.43",
+    "Close": "6.43",
+    "High": "6.68"
+  },
+  {
+    "Open": "6.56",
+    "Symbol": "CRUS",
+    "Volume": "2336800",
+    "Date": "2008-04-10",
+    "Low": "6.45",
+    "Adj_Close": "6.67",
+    "Close": "6.67",
+    "High": "6.80"
+  },
+  {
+    "Open": "6.71",
+    "Symbol": "CRUS",
+    "Volume": "1638300",
+    "Date": "2008-04-09",
+    "Low": "6.61",
+    "Adj_Close": "6.75",
+    "Close": "6.75",
+    "High": "6.90"
+  },
+  {
+    "Open": "6.91",
+    "Symbol": "CRUS",
+    "Volume": "1730900",
+    "Date": "2008-04-08",
+    "Low": "6.63",
+    "Adj_Close": "6.73",
+    "Close": "6.73",
+    "High": "6.95"
+  },
+  {
+    "Open": "6.85",
+    "Symbol": "CRUS",
+    "Volume": "2110600",
+    "Date": "2008-04-07",
+    "Low": "6.82",
+    "Adj_Close": "6.92",
+    "Close": "6.92",
+    "High": "7.20"
+  },
+  {
+    "Open": "7.17",
+    "Symbol": "CRUS",
+    "Volume": "1464300",
+    "Date": "2008-04-04",
+    "Low": "6.95",
+    "Adj_Close": "7.25",
+    "Close": "7.25",
+    "High": "7.29"
+  },
+  {
+    "Open": "6.92",
+    "Symbol": "CRUS",
+    "Volume": "3365800",
+    "Date": "2008-04-03",
+    "Low": "6.91",
+    "Adj_Close": "7.15",
+    "Close": "7.15",
+    "High": "7.38"
+  },
+  {
+    "Open": "6.89",
+    "Symbol": "CRUS",
+    "Volume": "2137200",
+    "Date": "2008-04-02",
+    "Low": "6.80",
+    "Adj_Close": "6.92",
+    "Close": "6.92",
+    "High": "6.96"
+  },
+  {
+    "Open": "6.75",
+    "Symbol": "CRUS",
+    "Volume": "3048900",
+    "Date": "2008-04-01",
+    "Low": "6.72",
+    "Adj_Close": "6.82",
+    "Close": "6.82",
+    "High": "6.95"
+  },
+  {
+    "Open": "6.61",
+    "Symbol": "CRUS",
+    "Volume": "1626900",
+    "Date": "2008-03-31",
+    "Low": "6.52",
+    "Adj_Close": "6.72",
+    "Close": "6.72",
+    "High": "6.80"
+  },
+  {
+    "Open": "6.70",
+    "Symbol": "CRUS",
+    "Volume": "2311600",
+    "Date": "2008-03-28",
+    "Low": "6.56",
+    "Adj_Close": "6.63",
+    "Close": "6.63",
+    "High": "6.81"
+  },
+  {
+    "Open": "6.11",
+    "Symbol": "CRUS",
+    "Volume": "2997400",
+    "Date": "2008-03-27",
+    "Low": "6.09",
+    "Adj_Close": "6.35",
+    "Close": "6.35",
+    "High": "6.62"
+  },
+  {
+    "Open": "6.07",
+    "Symbol": "CRUS",
+    "Volume": "2270700",
+    "Date": "2008-03-26",
+    "Low": "5.99",
+    "Adj_Close": "6.10",
+    "Close": "6.10",
+    "High": "6.17"
+  },
+  {
+    "Open": "6.10",
+    "Symbol": "CRUS",
+    "Volume": "1137400",
+    "Date": "2008-03-25",
+    "Low": "5.87",
+    "Adj_Close": "6.11",
+    "Close": "6.11",
+    "High": "6.14"
+  },
+  {
+    "Open": "6.04",
+    "Symbol": "CRUS",
+    "Volume": "1486300",
+    "Date": "2008-03-24",
+    "Low": "5.97",
+    "Adj_Close": "6.09",
+    "Close": "6.09",
+    "High": "6.14"
+  },
+  {
+    "Open": "5.82",
+    "Symbol": "CRUS",
+    "Volume": "1892600",
+    "Date": "2008-03-20",
+    "Low": "5.67",
+    "Adj_Close": "6.00",
+    "Close": "6.00",
+    "High": "6.03"
+  },
+  {
+    "Open": "6.02",
+    "Symbol": "CRUS",
+    "Volume": "1247000",
+    "Date": "2008-03-19",
+    "Low": "5.74",
+    "Adj_Close": "5.74",
+    "Close": "5.74",
+    "High": "6.17"
+  },
+  {
+    "Open": "5.65",
+    "Symbol": "CRUS",
+    "Volume": "3619800",
+    "Date": "2008-03-18",
+    "Low": "5.65",
+    "Adj_Close": "5.99",
+    "Close": "5.99",
+    "High": "6.00"
+  },
+  {
+    "Open": "5.37",
+    "Symbol": "CRUS",
+    "Volume": "2079800",
+    "Date": "2008-03-17",
+    "Low": "5.33",
+    "Adj_Close": "5.58",
+    "Close": "5.58",
+    "High": "5.71"
+  },
+  {
+    "Open": "5.26",
+    "Symbol": "CRUS",
+    "Volume": "1818400",
+    "Date": "2008-03-14",
+    "Low": "5.21",
+    "Adj_Close": "5.44",
+    "Close": "5.44",
+    "High": "5.53"
+  },
+  {
+    "Open": "5.09",
+    "Symbol": "CRUS",
+    "Volume": "3455200",
+    "Date": "2008-03-13",
+    "Low": "4.97",
+    "Adj_Close": "5.25",
+    "Close": "5.25",
+    "High": "5.28"
+  },
+  {
+    "Open": "5.09",
+    "Symbol": "CRUS",
+    "Volume": "1380000",
+    "Date": "2008-03-12",
+    "Low": "5.03",
+    "Adj_Close": "5.10",
+    "Close": "5.10",
+    "High": "5.11"
+  },
+  {
+    "Open": "4.92",
+    "Symbol": "CRUS",
+    "Volume": "1198600",
+    "Date": "2008-03-11",
+    "Low": "4.92",
+    "Adj_Close": "5.09",
+    "Close": "5.09",
+    "High": "5.24"
+  },
+  {
+    "Open": "5.25",
+    "Symbol": "CRUS",
+    "Volume": "1092100",
+    "Date": "2008-03-10",
+    "Low": "4.92",
+    "Adj_Close": "4.92",
+    "Close": "4.92",
+    "High": "5.25"
+  },
+  {
+    "Open": "5.10",
+    "Symbol": "CRUS",
+    "Volume": "1057600",
+    "Date": "2008-03-07",
+    "Low": "5.10",
+    "Adj_Close": "5.24",
+    "Close": "5.24",
+    "High": "5.34"
+  },
+  {
+    "Open": "5.23",
+    "Symbol": "CRUS",
+    "Volume": "751200",
+    "Date": "2008-03-06",
+    "Low": "5.11",
+    "Adj_Close": "5.11",
+    "Close": "5.11",
+    "High": "5.32"
+  },
+  {
+    "Open": "5.28",
+    "Symbol": "CRUS",
+    "Volume": "824700",
+    "Date": "2008-03-05",
+    "Low": "5.23",
+    "Adj_Close": "5.27",
+    "Close": "5.27",
+    "High": "5.37"
+  },
+  {
+    "Open": "5.11",
+    "Symbol": "CRUS",
+    "Volume": "838600",
+    "Date": "2008-03-04",
+    "Low": "5.10",
+    "Adj_Close": "5.27",
+    "Close": "5.27",
+    "High": "5.30"
+  },
+  {
+    "Open": "5.13",
+    "Symbol": "CRUS",
+    "Volume": "1323200",
+    "Date": "2008-03-03",
+    "Low": "5.08",
+    "Adj_Close": "5.15",
+    "Close": "5.15",
+    "High": "5.26"
+  },
+  {
+    "Open": "5.14",
+    "Symbol": "CRUS",
+    "Volume": "801200",
+    "Date": "2008-02-29",
+    "Low": "5.11",
+    "Adj_Close": "5.14",
+    "Close": "5.14",
+    "High": "5.27"
+  },
+  {
+    "Open": "5.40",
+    "Symbol": "CRUS",
+    "Volume": "1434700",
+    "Date": "2008-02-28",
+    "Low": "5.13",
+    "Adj_Close": "5.17",
+    "Close": "5.17",
+    "High": "5.42"
+  },
+  {
+    "Open": "5.28",
+    "Symbol": "CRUS",
+    "Volume": "976800",
+    "Date": "2008-02-27",
+    "Low": "5.23",
+    "Adj_Close": "5.45",
+    "Close": "5.45",
+    "High": "5.59"
+  },
+  {
+    "Open": "5.21",
+    "Symbol": "CRUS",
+    "Volume": "1275900",
+    "Date": "2008-02-26",
+    "Low": "5.20",
+    "Adj_Close": "5.32",
+    "Close": "5.32",
+    "High": "5.40"
+  },
+  {
+    "Open": "5.13",
+    "Symbol": "CRUS",
+    "Volume": "838200",
+    "Date": "2008-02-25",
+    "Low": "5.10",
+    "Adj_Close": "5.24",
+    "Close": "5.24",
+    "High": "5.27"
+  },
+  {
+    "Open": "5.21",
+    "Symbol": "CRUS",
+    "Volume": "812000",
+    "Date": "2008-02-22",
+    "Low": "5.04",
+    "Adj_Close": "5.14",
+    "Close": "5.14",
+    "High": "5.27"
+  },
+  {
+    "Open": "5.19",
+    "Symbol": "CRUS",
+    "Volume": "1172600",
+    "Date": "2008-02-21",
+    "Low": "5.17",
+    "Adj_Close": "5.23",
+    "Close": "5.23",
+    "High": "5.36"
+  },
+  {
+    "Open": "5.00",
+    "Symbol": "CRUS",
+    "Volume": "964400",
+    "Date": "2008-02-20",
+    "Low": "5.00",
+    "Adj_Close": "5.18",
+    "Close": "5.18",
+    "High": "5.20"
+  },
+  {
+    "Open": "5.20",
+    "Symbol": "CRUS",
+    "Volume": "1334800",
+    "Date": "2008-02-19",
+    "Low": "5.00",
+    "Adj_Close": "5.01",
+    "Close": "5.01",
+    "High": "5.30"
+  },
+  {
+    "Open": "5.09",
+    "Symbol": "CRUS",
+    "Volume": "935300",
+    "Date": "2008-02-15",
+    "Low": "5.06",
+    "Adj_Close": "5.17",
+    "Close": "5.17",
+    "High": "5.22"
+  },
+  {
+    "Open": "5.20",
+    "Symbol": "CRUS",
+    "Volume": "875600",
+    "Date": "2008-02-14",
+    "Low": "5.09",
+    "Adj_Close": "5.11",
+    "Close": "5.11",
+    "High": "5.21"
+  },
+  {
+    "Open": "4.95",
+    "Symbol": "CRUS",
+    "Volume": "1018300",
+    "Date": "2008-02-13",
+    "Low": "4.86",
+    "Adj_Close": "5.19",
+    "Close": "5.19",
+    "High": "5.19"
+  },
+  {
+    "Open": "4.82",
+    "Symbol": "CRUS",
+    "Volume": "1009800",
+    "Date": "2008-02-12",
+    "Low": "4.75",
+    "Adj_Close": "4.91",
+    "Close": "4.91",
+    "High": "4.96"
+  },
+  {
+    "Open": "4.99",
+    "Symbol": "CRUS",
+    "Volume": "1633100",
+    "Date": "2008-02-11",
+    "Low": "4.76",
+    "Adj_Close": "4.78",
+    "Close": "4.78",
+    "High": "5.09"
+  },
+  {
+    "Open": "4.56",
+    "Symbol": "CRUS",
+    "Volume": "2207500",
+    "Date": "2008-02-08",
+    "Low": "4.54",
+    "Adj_Close": "4.99",
+    "Close": "4.99",
+    "High": "5.13"
+  },
+  {
+    "Open": "4.55",
+    "Symbol": "CRUS",
+    "Volume": "710400",
+    "Date": "2008-02-07",
+    "Low": "4.45",
+    "Adj_Close": "4.52",
+    "Close": "4.52",
+    "High": "4.63"
+  },
+  {
+    "Open": "4.56",
+    "Symbol": "CRUS",
+    "Volume": "917200",
+    "Date": "2008-02-06",
+    "Low": "4.53",
+    "Adj_Close": "4.58",
+    "Close": "4.58",
+    "High": "4.77"
+  },
+  {
+    "Open": "4.56",
+    "Symbol": "CRUS",
+    "Volume": "1560700",
+    "Date": "2008-02-05",
+    "Low": "4.49",
+    "Adj_Close": "4.51",
+    "Close": "4.51",
+    "High": "4.70"
+  },
+  {
+    "Open": "4.23",
+    "Symbol": "CRUS",
+    "Volume": "2715300",
+    "Date": "2008-02-04",
+    "Low": "4.23",
+    "Adj_Close": "4.68",
+    "Close": "4.68",
+    "High": "4.77"
+  },
+  {
+    "Open": "4.28",
+    "Symbol": "CRUS",
+    "Volume": "3728300",
+    "Date": "2008-02-01",
+    "Low": "4.13",
+    "Adj_Close": "4.22",
+    "Close": "4.22",
+    "High": "4.33"
+  },
+  {
+    "Open": "4.33",
+    "Symbol": "CRUS",
+    "Volume": "3815600",
+    "Date": "2008-01-31",
+    "Low": "4.00",
+    "Adj_Close": "4.25",
+    "Close": "4.25",
+    "High": "4.46"
+  },
+  {
+    "Open": "4.68",
+    "Symbol": "CRUS",
+    "Volume": "1744500",
+    "Date": "2008-01-30",
+    "Low": "4.52",
+    "Adj_Close": "4.53",
+    "Close": "4.53",
+    "High": "4.90"
+  },
+  {
+    "Open": "4.62",
+    "Symbol": "CRUS",
+    "Volume": "501700",
+    "Date": "2008-01-29",
+    "Low": "4.56",
+    "Adj_Close": "4.68",
+    "Close": "4.68",
+    "High": "4.68"
+  },
+  {
+    "Open": "4.71",
+    "Symbol": "CRUS",
+    "Volume": "671000",
+    "Date": "2008-01-28",
+    "Low": "4.53",
+    "Adj_Close": "4.58",
+    "Close": "4.58",
+    "High": "4.71"
+  },
+  {
+    "Open": "4.69",
+    "Symbol": "CRUS",
+    "Volume": "923600",
+    "Date": "2008-01-25",
+    "Low": "4.66",
+    "Adj_Close": "4.71",
+    "Close": "4.71",
+    "High": "4.75"
+  },
+  {
+    "Open": "4.53",
+    "Symbol": "CRUS",
+    "Volume": "1774000",
+    "Date": "2008-01-24",
+    "Low": "4.46",
+    "Adj_Close": "4.61",
+    "Close": "4.61",
+    "High": "4.63"
+  },
+  {
+    "Open": "4.66",
+    "Symbol": "CRUS",
+    "Volume": "1287600",
+    "Date": "2008-01-23",
+    "Low": "4.34",
+    "Adj_Close": "4.51",
+    "Close": "4.51",
+    "High": "4.72"
+  },
+  {
+    "Open": "4.48",
+    "Symbol": "CRUS",
+    "Volume": "672800",
+    "Date": "2008-01-22",
+    "Low": "4.48",
+    "Adj_Close": "4.70",
+    "Close": "4.70",
+    "High": "4.80"
+  },
+  {
+    "Open": "4.60",
+    "Symbol": "CRUS",
+    "Volume": "1099600",
+    "Date": "2008-01-18",
+    "Low": "4.60",
+    "Adj_Close": "4.68",
+    "Close": "4.68",
+    "High": "4.83"
+  },
+  {
+    "Open": "4.71",
+    "Symbol": "CRUS",
+    "Volume": "717400",
+    "Date": "2008-01-17",
+    "Low": "4.60",
+    "Adj_Close": "4.60",
+    "Close": "4.60",
+    "High": "4.77"
+  },
+  {
+    "Open": "4.68",
+    "Symbol": "CRUS",
+    "Volume": "753400",
+    "Date": "2008-01-16",
+    "Low": "4.50",
+    "Adj_Close": "4.68",
+    "Close": "4.68",
+    "High": "4.81"
+  },
+  {
+    "Open": "4.65",
+    "Symbol": "CRUS",
+    "Volume": "667700",
+    "Date": "2008-01-15",
+    "Low": "4.60",
+    "Adj_Close": "4.70",
+    "Close": "4.70",
+    "High": "4.72"
+  },
+  {
+    "Open": "4.62",
+    "Symbol": "CRUS",
+    "Volume": "719900",
+    "Date": "2008-01-14",
+    "Low": "4.60",
+    "Adj_Close": "4.73",
+    "Close": "4.73",
+    "High": "4.79"
+  },
+  {
+    "Open": "4.71",
+    "Symbol": "CRUS",
+    "Volume": "829600",
+    "Date": "2008-01-11",
+    "Low": "4.46",
+    "Adj_Close": "4.60",
+    "Close": "4.60",
+    "High": "4.72"
+  },
+  {
+    "Open": "4.62",
+    "Symbol": "CRUS",
+    "Volume": "749200",
+    "Date": "2008-01-10",
+    "Low": "4.52",
+    "Adj_Close": "4.74",
+    "Close": "4.74",
+    "High": "4.80"
+  },
+  {
+    "Open": "4.50",
+    "Symbol": "CRUS",
+    "Volume": "1424300",
+    "Date": "2008-01-09",
+    "Low": "4.50",
+    "Adj_Close": "4.59",
+    "Close": "4.59",
+    "High": "4.63"
+  },
+  {
+    "Open": "4.71",
+    "Symbol": "CRUS",
+    "Volume": "861400",
+    "Date": "2008-01-08",
+    "Low": "4.44",
+    "Adj_Close": "4.46",
+    "Close": "4.46",
+    "High": "4.74"
+  },
+  {
+    "Open": "4.63",
+    "Symbol": "CRUS",
+    "Volume": "865900",
+    "Date": "2008-01-07",
+    "Low": "4.51",
+    "Adj_Close": "4.65",
+    "Close": "4.65",
+    "High": "4.71"
+  },
+  {
+    "Open": "4.74",
+    "Symbol": "CRUS",
+    "Volume": "557200",
+    "Date": "2008-01-04",
+    "Low": "4.59",
+    "Adj_Close": "4.61",
+    "Close": "4.61",
+    "High": "4.80"
+  },
+  {
+    "Open": "5.02",
+    "Symbol": "CRUS",
+    "Volume": "673600",
+    "Date": "2008-01-03",
+    "Low": "4.79",
+    "Adj_Close": "4.81",
+    "Close": "4.81",
+    "High": "5.04"
+  },
+  {
+    "Open": "5.26",
+    "Symbol": "CRUS",
+    "Volume": "834900",
+    "Date": "2008-01-02",
+    "Low": "4.94",
+    "Adj_Close": "5.02",
+    "Close": "5.02",
+    "High": "5.27"
+  }
+]

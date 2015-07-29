@@ -1,0 +1,642 @@
+[
+  {
+    "Open": "14.85",
+    "Symbol": "SFLY",
+    "Volume": "78400",
+    "Date": "2006-12-29",
+    "Low": "14.40",
+    "Adj_Close": "14.40",
+    "Close": "14.40",
+    "High": "14.85"
+  },
+  {
+    "Open": "14.60",
+    "Symbol": "SFLY",
+    "Volume": "74900",
+    "Date": "2006-12-28",
+    "Low": "14.47",
+    "Adj_Close": "14.78",
+    "Close": "14.78",
+    "High": "14.83"
+  },
+  {
+    "Open": "14.50",
+    "Symbol": "SFLY",
+    "Volume": "40900",
+    "Date": "2006-12-27",
+    "Low": "14.44",
+    "Adj_Close": "14.50",
+    "Close": "14.50",
+    "High": "14.50"
+  },
+  {
+    "Open": "14.69",
+    "Symbol": "SFLY",
+    "Volume": "84400",
+    "Date": "2006-12-26",
+    "Low": "14.40",
+    "Adj_Close": "14.49",
+    "Close": "14.49",
+    "High": "14.69"
+  },
+  {
+    "Open": "14.46",
+    "Symbol": "SFLY",
+    "Volume": "171800",
+    "Date": "2006-12-22",
+    "Low": "14.28",
+    "Adj_Close": "14.50",
+    "Close": "14.50",
+    "High": "14.53"
+  },
+  {
+    "Open": "14.75",
+    "Symbol": "SFLY",
+    "Volume": "85800",
+    "Date": "2006-12-21",
+    "Low": "14.43",
+    "Adj_Close": "14.48",
+    "Close": "14.48",
+    "High": "14.75"
+  },
+  {
+    "Open": "15.00",
+    "Symbol": "SFLY",
+    "Volume": "178000",
+    "Date": "2006-12-20",
+    "Low": "14.44",
+    "Adj_Close": "14.58",
+    "Close": "14.58",
+    "High": "15.00"
+  },
+  {
+    "Open": "14.80",
+    "Symbol": "SFLY",
+    "Volume": "141400",
+    "Date": "2006-12-19",
+    "Low": "14.60",
+    "Adj_Close": "14.82",
+    "Close": "14.82",
+    "High": "14.91"
+  },
+  {
+    "Open": "14.85",
+    "Symbol": "SFLY",
+    "Volume": "145200",
+    "Date": "2006-12-18",
+    "Low": "14.65",
+    "Adj_Close": "14.81",
+    "Close": "14.81",
+    "High": "15.05"
+  },
+  {
+    "Open": "14.76",
+    "Symbol": "SFLY",
+    "Volume": "350600",
+    "Date": "2006-12-15",
+    "Low": "14.70",
+    "Adj_Close": "14.91",
+    "Close": "14.91",
+    "High": "15.31"
+  },
+  {
+    "Open": "14.87",
+    "Symbol": "SFLY",
+    "Volume": "107600",
+    "Date": "2006-12-14",
+    "Low": "14.66",
+    "Adj_Close": "14.78",
+    "Close": "14.78",
+    "High": "15.00"
+  },
+  {
+    "Open": "14.95",
+    "Symbol": "SFLY",
+    "Volume": "303600",
+    "Date": "2006-12-13",
+    "Low": "14.76",
+    "Adj_Close": "14.91",
+    "Close": "14.91",
+    "High": "15.09"
+  },
+  {
+    "Open": "15.15",
+    "Symbol": "SFLY",
+    "Volume": "119900",
+    "Date": "2006-12-12",
+    "Low": "14.66",
+    "Adj_Close": "14.73",
+    "Close": "14.73",
+    "High": "15.15"
+  },
+  {
+    "Open": "14.98",
+    "Symbol": "SFLY",
+    "Volume": "194900",
+    "Date": "2006-12-11",
+    "Low": "14.98",
+    "Adj_Close": "15.15",
+    "Close": "15.15",
+    "High": "15.35"
+  },
+  {
+    "Open": "14.95",
+    "Symbol": "SFLY",
+    "Volume": "78700",
+    "Date": "2006-12-08",
+    "Low": "14.80",
+    "Adj_Close": "14.94",
+    "Close": "14.94",
+    "High": "15.05"
+  },
+  {
+    "Open": "14.83",
+    "Symbol": "SFLY",
+    "Volume": "122400",
+    "Date": "2006-12-07",
+    "Low": "14.83",
+    "Adj_Close": "14.92",
+    "Close": "14.92",
+    "High": "15.11"
+  },
+  {
+    "Open": "15.14",
+    "Symbol": "SFLY",
+    "Volume": "101300",
+    "Date": "2006-12-06",
+    "Low": "14.80",
+    "Adj_Close": "14.95",
+    "Close": "14.95",
+    "High": "15.50"
+  },
+  {
+    "Open": "15.61",
+    "Symbol": "SFLY",
+    "Volume": "75800",
+    "Date": "2006-12-05",
+    "Low": "15.15",
+    "Adj_Close": "15.20",
+    "Close": "15.20",
+    "High": "15.84"
+  },
+  {
+    "Open": "15.70",
+    "Symbol": "SFLY",
+    "Volume": "308900",
+    "Date": "2006-12-04",
+    "Low": "15.57",
+    "Adj_Close": "15.60",
+    "Close": "15.60",
+    "High": "16.290001"
+  },
+  {
+    "Open": "15.50",
+    "Symbol": "SFLY",
+    "Volume": "133200",
+    "Date": "2006-12-01",
+    "Low": "15.10",
+    "Adj_Close": "15.70",
+    "Close": "15.70",
+    "High": "15.73"
+  },
+  {
+    "Open": "15.12",
+    "Symbol": "SFLY",
+    "Volume": "54900",
+    "Date": "2006-11-30",
+    "Low": "15.10",
+    "Adj_Close": "15.32",
+    "Close": "15.32",
+    "High": "15.38"
+  },
+  {
+    "Open": "15.42",
+    "Symbol": "SFLY",
+    "Volume": "81100",
+    "Date": "2006-11-29",
+    "Low": "15.10",
+    "Adj_Close": "15.15",
+    "Close": "15.15",
+    "High": "15.42"
+  },
+  {
+    "Open": "15.14",
+    "Symbol": "SFLY",
+    "Volume": "214500",
+    "Date": "2006-11-28",
+    "Low": "14.94",
+    "Adj_Close": "15.32",
+    "Close": "15.32",
+    "High": "15.50"
+  },
+  {
+    "Open": "15.25",
+    "Symbol": "SFLY",
+    "Volume": "162300",
+    "Date": "2006-11-27",
+    "Low": "14.75",
+    "Adj_Close": "14.80",
+    "Close": "14.80",
+    "High": "15.25"
+  },
+  {
+    "Open": "15.24",
+    "Symbol": "SFLY",
+    "Volume": "79100",
+    "Date": "2006-11-24",
+    "Low": "15.10",
+    "Adj_Close": "15.20",
+    "Close": "15.20",
+    "High": "15.63"
+  },
+  {
+    "Open": "15.00",
+    "Symbol": "SFLY",
+    "Volume": "55600",
+    "Date": "2006-11-22",
+    "Low": "14.90",
+    "Adj_Close": "15.23",
+    "Close": "15.23",
+    "High": "15.35"
+  },
+  {
+    "Open": "14.68",
+    "Symbol": "SFLY",
+    "Volume": "80000",
+    "Date": "2006-11-21",
+    "Low": "14.61",
+    "Adj_Close": "15.00",
+    "Close": "15.00",
+    "High": "15.00"
+  },
+  {
+    "Open": "14.50",
+    "Symbol": "SFLY",
+    "Volume": "26800",
+    "Date": "2006-11-20",
+    "Low": "14.50",
+    "Adj_Close": "14.67",
+    "Close": "14.67",
+    "High": "14.67"
+  },
+  {
+    "Open": "14.26",
+    "Symbol": "SFLY",
+    "Volume": "134300",
+    "Date": "2006-11-17",
+    "Low": "14.01",
+    "Adj_Close": "14.55",
+    "Close": "14.55",
+    "High": "14.69"
+  },
+  {
+    "Open": "14.58",
+    "Symbol": "SFLY",
+    "Volume": "75000",
+    "Date": "2006-11-16",
+    "Low": "14.00",
+    "Adj_Close": "14.29",
+    "Close": "14.29",
+    "High": "14.58"
+  },
+  {
+    "Open": "15.70",
+    "Symbol": "SFLY",
+    "Volume": "228000",
+    "Date": "2006-11-15",
+    "Low": "14.60",
+    "Adj_Close": "14.62",
+    "Close": "14.62",
+    "High": "16.00"
+  },
+  {
+    "Open": "15.14",
+    "Symbol": "SFLY",
+    "Volume": "354900",
+    "Date": "2006-11-14",
+    "Low": "15.09",
+    "Adj_Close": "15.40",
+    "Close": "15.40",
+    "High": "15.58"
+  },
+  {
+    "Open": "14.76",
+    "Symbol": "SFLY",
+    "Volume": "164600",
+    "Date": "2006-11-13",
+    "Low": "14.56",
+    "Adj_Close": "14.98",
+    "Close": "14.98",
+    "High": "15.01"
+  },
+  {
+    "Open": "14.00",
+    "Symbol": "SFLY",
+    "Volume": "469200",
+    "Date": "2006-11-10",
+    "Low": "13.93",
+    "Adj_Close": "14.65",
+    "Close": "14.65",
+    "High": "14.73"
+  },
+  {
+    "Open": "13.10",
+    "Symbol": "SFLY",
+    "Volume": "867100",
+    "Date": "2006-11-09",
+    "Low": "13.10",
+    "Adj_Close": "13.94",
+    "Close": "13.94",
+    "High": "14.44"
+  },
+  {
+    "Open": "12.34",
+    "Symbol": "SFLY",
+    "Volume": "1240200",
+    "Date": "2006-11-08",
+    "Low": "12.34",
+    "Adj_Close": "13.24",
+    "Close": "13.24",
+    "High": "13.32"
+  },
+  {
+    "Open": "12.30",
+    "Symbol": "SFLY",
+    "Volume": "155100",
+    "Date": "2006-11-07",
+    "Low": "12.05",
+    "Adj_Close": "12.10",
+    "Close": "12.10",
+    "High": "12.44"
+  },
+  {
+    "Open": "12.38",
+    "Symbol": "SFLY",
+    "Volume": "184300",
+    "Date": "2006-11-06",
+    "Low": "12.25",
+    "Adj_Close": "12.26",
+    "Close": "12.26",
+    "High": "12.55"
+  },
+  {
+    "Open": "12.58",
+    "Symbol": "SFLY",
+    "Volume": "57300",
+    "Date": "2006-11-03",
+    "Low": "12.30",
+    "Adj_Close": "12.35",
+    "Close": "12.35",
+    "High": "12.58"
+  },
+  {
+    "Open": "12.70",
+    "Symbol": "SFLY",
+    "Volume": "319800",
+    "Date": "2006-11-02",
+    "Low": "12.10",
+    "Adj_Close": "12.50",
+    "Close": "12.50",
+    "High": "12.75"
+  },
+  {
+    "Open": "13.05",
+    "Symbol": "SFLY",
+    "Volume": "209700",
+    "Date": "2006-11-01",
+    "Low": "12.68",
+    "Adj_Close": "12.69",
+    "Close": "12.69",
+    "High": "13.10"
+  },
+  {
+    "Open": "13.40",
+    "Symbol": "SFLY",
+    "Volume": "90400",
+    "Date": "2006-10-31",
+    "Low": "13.00",
+    "Adj_Close": "13.15",
+    "Close": "13.15",
+    "High": "13.40"
+  },
+  {
+    "Open": "13.65",
+    "Symbol": "SFLY",
+    "Volume": "56600",
+    "Date": "2006-10-30",
+    "Low": "13.22",
+    "Adj_Close": "13.22",
+    "Close": "13.22",
+    "High": "13.65"
+  },
+  {
+    "Open": "13.27",
+    "Symbol": "SFLY",
+    "Volume": "169600",
+    "Date": "2006-10-27",
+    "Low": "13.25",
+    "Adj_Close": "13.35",
+    "Close": "13.35",
+    "High": "13.90"
+  },
+  {
+    "Open": "13.49",
+    "Symbol": "SFLY",
+    "Volume": "93500",
+    "Date": "2006-10-26",
+    "Low": "13.20",
+    "Adj_Close": "13.40",
+    "Close": "13.40",
+    "High": "13.50"
+  },
+  {
+    "Open": "13.60",
+    "Symbol": "SFLY",
+    "Volume": "201800",
+    "Date": "2006-10-25",
+    "Low": "13.25",
+    "Adj_Close": "13.34",
+    "Close": "13.34",
+    "High": "13.72"
+  },
+  {
+    "Open": "13.30",
+    "Symbol": "SFLY",
+    "Volume": "64900",
+    "Date": "2006-10-24",
+    "Low": "13.20",
+    "Adj_Close": "13.31",
+    "Close": "13.31",
+    "High": "13.45"
+  },
+  {
+    "Open": "13.01",
+    "Symbol": "SFLY",
+    "Volume": "266000",
+    "Date": "2006-10-23",
+    "Low": "13.00",
+    "Adj_Close": "13.23",
+    "Close": "13.23",
+    "High": "13.37"
+  },
+  {
+    "Open": "12.71",
+    "Symbol": "SFLY",
+    "Volume": "96500",
+    "Date": "2006-10-20",
+    "Low": "12.71",
+    "Adj_Close": "12.90",
+    "Close": "12.90",
+    "High": "12.90"
+  },
+  {
+    "Open": "12.90",
+    "Symbol": "SFLY",
+    "Volume": "155300",
+    "Date": "2006-10-19",
+    "Low": "12.50",
+    "Adj_Close": "12.75",
+    "Close": "12.75",
+    "High": "12.90"
+  },
+  {
+    "Open": "12.89",
+    "Symbol": "SFLY",
+    "Volume": "98000",
+    "Date": "2006-10-18",
+    "Low": "12.80",
+    "Adj_Close": "12.80",
+    "Close": "12.80",
+    "High": "12.90"
+  },
+  {
+    "Open": "12.70",
+    "Symbol": "SFLY",
+    "Volume": "214200",
+    "Date": "2006-10-17",
+    "Low": "12.52",
+    "Adj_Close": "12.88",
+    "Close": "12.88",
+    "High": "12.94"
+  },
+  {
+    "Open": "12.80",
+    "Symbol": "SFLY",
+    "Volume": "274300",
+    "Date": "2006-10-16",
+    "Low": "12.74",
+    "Adj_Close": "12.75",
+    "Close": "12.75",
+    "High": "12.86"
+  },
+  {
+    "Open": "12.90",
+    "Symbol": "SFLY",
+    "Volume": "190200",
+    "Date": "2006-10-13",
+    "Low": "12.75",
+    "Adj_Close": "12.80",
+    "Close": "12.80",
+    "High": "12.92"
+  },
+  {
+    "Open": "12.69",
+    "Symbol": "SFLY",
+    "Volume": "631100",
+    "Date": "2006-10-12",
+    "Low": "12.65",
+    "Adj_Close": "12.90",
+    "Close": "12.90",
+    "High": "13.39"
+  },
+  {
+    "Open": "12.65",
+    "Symbol": "SFLY",
+    "Volume": "321100",
+    "Date": "2006-10-11",
+    "Low": "12.50",
+    "Adj_Close": "12.71",
+    "Close": "12.71",
+    "High": "12.96"
+  },
+  {
+    "Open": "12.80",
+    "Symbol": "SFLY",
+    "Volume": "259000",
+    "Date": "2006-10-10",
+    "Low": "12.50",
+    "Adj_Close": "12.65",
+    "Close": "12.65",
+    "High": "13.00"
+  },
+  {
+    "Open": "12.62",
+    "Symbol": "SFLY",
+    "Volume": "501200",
+    "Date": "2006-10-09",
+    "Low": "12.51",
+    "Adj_Close": "12.93",
+    "Close": "12.93",
+    "High": "13.20"
+  },
+  {
+    "Open": "13.58",
+    "Symbol": "SFLY",
+    "Volume": "811300",
+    "Date": "2006-10-06",
+    "Low": "12.32",
+    "Adj_Close": "12.40",
+    "Close": "12.40",
+    "High": "13.58"
+  },
+  {
+    "Open": "14.05",
+    "Symbol": "SFLY",
+    "Volume": "1005100",
+    "Date": "2006-10-05",
+    "Low": "13.18",
+    "Adj_Close": "13.64",
+    "Close": "13.64",
+    "High": "14.18"
+  },
+  {
+    "Open": "14.25",
+    "Symbol": "SFLY",
+    "Volume": "614400",
+    "Date": "2006-10-04",
+    "Low": "14.05",
+    "Adj_Close": "14.05",
+    "Close": "14.05",
+    "High": "14.56"
+  },
+  {
+    "Open": "15.55",
+    "Symbol": "SFLY",
+    "Volume": "1790800",
+    "Date": "2006-10-03",
+    "Low": "14.06",
+    "Adj_Close": "14.36",
+    "Close": "14.36",
+    "High": "15.55"
+  },
+  {
+    "Open": "15.69",
+    "Symbol": "SFLY",
+    "Volume": "739500",
+    "Date": "2006-10-02",
+    "Low": "15.40",
+    "Adj_Close": "15.47",
+    "Close": "15.47",
+    "High": "15.69"
+  },
+  {
+    "Open": "15.50",
+    "Symbol": "SFLY",
+    "Volume": "8668800",
+    "Date": "2006-09-29",
+    "Low": "15.01",
+    "Adj_Close": "15.55",
+    "Close": "15.55",
+    "High": "16.73"
+  }
+]
