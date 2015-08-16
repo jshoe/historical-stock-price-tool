@@ -5,7 +5,7 @@ import os.path
 import urllib.request
 
 def main():
-    fetch_all_historical_data(json.load(open('stock_list3.txt')))
+    fetch_all_historical_data(json.load(open('stock_list.txt')))
 
 def fetch_stock_history(stock):
     """Loads historical data for a single stock from Yahoo YQL."""
