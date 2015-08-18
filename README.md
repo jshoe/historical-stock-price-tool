@@ -1,5 +1,7 @@
 # Historical Stock Price Tool
 
+Date authored: July 28, 2015
+
 A script to help you download many years' worth of historical data for technical analysis and candlestick charts.
 
 - Uses https://query.yahooapis.com/ as its data source
